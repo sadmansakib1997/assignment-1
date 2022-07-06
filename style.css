@@ -191,3 +191,20 @@ hr {
 .p-help {
     margin-top: 13px;
 }
+
+.last {
+    margin: 50px 0;
+}
+
+.try {
+    background-color: black;
+    width: 80%;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.try h1 {
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
