@@ -157,3 +157,37 @@ hr {
     border: none;
     text-decoration: none;
 }
+
+.god {
+    margin-bottom: 50px;
+}
+
+.people {
+    display: flex;
+}
+
+.ami {
+    width: 44%;
+
+}
+
+.ami img {
+    width: 100%;
+    height: 400px;
+}
+
+.ami h1 {
+    padding: 20px 0;
+}
+
+.ami p {
+    padding: 6px 0;
+}
+
+.tmi {
+    padding-bottom: 8px;
+}
+
+.p-help {
+    margin-top: 13px;
+}
