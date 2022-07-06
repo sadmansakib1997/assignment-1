@@ -1,0 +1,159 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.help {
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0.1), rgb(0, 0, 0)), url(images/donation9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    margin-bottom: 50px;
+}
+
+.poor {
+    padding-top: 180px;
+    text-align: center;
+}
+
+.poor h1 {
+    font-size: 80px;
+    color: white;
+}
+
+.poor .text {
+    font-size: 18px;
+    color: whitesmoke;
+    margin-bottom: 5%;
+}
+
+.button {
+    text-decoration: none;
+    font-size: 18px;
+    background-color: orangered;
+    padding: 10px 15px;
+    border-radius: 10px;
+    color: white;
+}
+
+.donate {
+    padding: 5%;
+}
+
+.donate-text {
+    text-align: center;
+    margin-bottom: 30px;
+
+}
+
+.dtext-1 {
+    font-size: 50px;
+    color: rgb(48, 48, 48);
+}
+
+.donate-text p {
+    color: rgb(58, 58, 58);
+}
+
+.donate-taka {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+
+.donate-taka a {
+    text-decoration: none;
+    display: inline-block;
+    margin: 0 25px;
+    font-size: 25px;
+    color: black;
+    background-color: aliceblue;
+    padding: 15px 10px;
+}
+
+#style {
+    background-color: red;
+    border: 1px solid black;
+}
+
+.amount {
+    text-align: center;
+    color: rgb(170, 170, 170);
+}
+
+hr {
+    width: 80%;
+    color: rgb(170, 170, 170);
+}
+
+.please-help {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.plan {
+    padding: 8%;
+}
+
+.hard {
+    display: flex;
+}
+
+.one {
+    width: 25%;
+    background-color: rgb(200, 238, 238);
+    padding: 50px 20px;
+}
+
+.two {
+    width: 25%;
+    padding: 50px 20px;
+    background-color: rgb(238, 185, 238);
+    margin: 0 25px;
+
+}
+
+.three {
+    width: 25%;
+    padding: 50px 20px;
+    background-color: rgb(250, 250, 180);
+}
+
+.hard h1 {
+    margin: 15px 0;
+}
+
+.hard p {
+    color: rgb(119, 119, 119);
+}
+
+.footer {
+    text-align: center;
+    margin-bottom: 50px;
+    background-color: bisque;
+    width: 70%;
+    height: 100px;
+    padding-top: 70px;
+}
+
+.email {
+    background-color: rgb(209, 209, 209);
+    padding: 10px 5px;
+    font-size: 18px;
+    border: none;
+}
+
+.sub {
+    background-color: red;
+    padding: 7px 5px;
+    font-size: 18px;
+    color: white;
+    border: none;
+    text-decoration: none;
+}
